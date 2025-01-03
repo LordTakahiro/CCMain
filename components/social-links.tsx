@@ -7,7 +7,7 @@ import {
 import Link from 'next/link'
 
 const SOCIAL_LINKS = {
-  discord: 'https://discord.gg/ZJcnaxNn',
+  discord: 'https://discord.gg/kG6Nb7hc',
   twitter: 'https://x.com/CriptoCapitalMX',
   instagram: 'https://www.instagram.com/cripto.capital'
 }
